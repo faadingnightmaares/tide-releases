@@ -1,0 +1,11 @@
+{
+  "version": "2.2.1",
+  "notes": "v2.2.1 - Simplified Shuffle Toggle (Off/On), Settings Width Fix, Layout Stability.",
+  "pub_date": "2026-02-06T18:20:00Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSUlB3MUtkN0lpeWpCbmV2ZEpZR0llTjFDeWlBRE1aVEFidnZ4MTBIblZPWHU3d2IvbXhvYWNyQlQ5b2VxM1V4UXVORitsaTJlVU13VmVyZkxoTENySlgyY0QwbEZjaVFrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzcwNDAyMTI2CWZpbGU6VGlkZV8yLjIuMV94NjRfZW4tVVMubXNpCkg0TTRva0JLL0JLT1RsTndlRklrdk1pSXJmanFwNU9Mb05RZ2prUVRCSk5LbXUvR0ZLOXhxdVNRSXlmc0hEd05FZVA3T0VsbU0xTGJrdUVDTjNKWkR3PT0K",
+      "url": "https://github.com/faadingnightmaares/tide-releases/releases/download/v2.2.1/Tide_2.2.1_x64_en-US.msi"
+    }
+  }
+}
