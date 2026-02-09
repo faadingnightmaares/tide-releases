@@ -1,11 +1,11 @@
 {
     "platforms": {
         "windows-x86_64": {
-            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTUjNFb0hSdW5PRFdWb0NNck00UDd3YTd4aFN6ZklMaXlBaGJaY1JZWDQ4T2Z1bnN1WGluc2sxVm1KR1JMRkd4VG9wS0MvVERVSnpKU1drVHoyRlozaEVuUlNqR3NNRmcwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzcwNjA1MjQ2CWZpbGU6VGlkZV8yLjMuMV94NjRfZW4tVVMubXNpCkFrTlRjOFc4Z0VYMzNTY2JUWDZYaHJYWXE4TlJ2WXN3Z01hbEgvZkFsTEdML3hQbGd2TmRRRzloNU55WWdHdHNRaW1hMTVlTHVRME5GcU1PbjdhbERnPT0K",
-            "url": "https://github.com/faadingnightmaares/tide-releases/releases/download/v2.3.1/Tide_2.3.1_x64_en-US.msi"
+            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTUjNFb0hSdW5PRFU1bWxkN2hsaWM1N3Z5U1FCcUpXV0plN25uVEV3STZVV0xUcmdRQmQ2blhGQTVPRENnSmRuakFvUm9KbFd0S0hES09Xa0w3WXJUckt3TEdmd1ZWY1FjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzcwNjA1NjkyCWZpbGU6VGlkZV8yLjMuMl94NjRfZW4tVVMubXNpCk1xNXczb214WGZtekZsakEzSUZEQlQ0NldySitHR1I2Wk1GdXNRcUlFT3h3WUg3RkwvUDhtRnVrQlZCMFBKVEw4MSsvak1FMnFCbS9xZzdYbkp5NkNRPT0K",
+            "url": "https://github.com/faadingnightmaares/tide-releases/releases/download/v2.3.2/Tide_2.3.2_x64_en-US.msi"
         }
     },
-    "pub_date": "2026-02-09T05:45:00Z",
-    "version": "2.3.1",
-    "notes": "v2.3.1 - Signing Chain Validation (Test Release)"
+    "pub_date": "2026-02-09T05:50:00Z",
+    "version": "2.3.2",
+    "notes": "v2.3.2 - Final Signing Chain Validation"
 }
