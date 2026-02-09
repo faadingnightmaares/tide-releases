@@ -1,11 +1,11 @@
 {
     "platforms": {
         "windows-x86_64": {
-            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTUjNFb0hSdW5PRFo5UFdJN0gzSjlvb2d1TU14SmVjMWNPSDJjV2RFWHN6Y24wSmRYOVFJT0gyRTJsdWZIRmkwcnZZZURBcXNEN3VFbW44R0RxYmJoeHpua1dTcGFtQXdBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzcwNjAzMzg3CWZpbGU6VGlkZV8yLjMuMF94NjRfZW4tVVMubXNpCmwrenJvSytCNkFYY3ZraWROc0hVc3NpOGIwTk5hTjVpWjNnVU5rWmRZUmEvdkl5WmdBYXZMVjlWcEd3dlplS253cWFrTWVOS01Xdksrc3N2bkh1OERRPT0K",
+            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTUjNFb0hSdW5PRFVTVkQ3aDg2eVVPNG1kUSsvS2NRbHJsK0l6N3NzcW40ZFZkTTlZaFFxVmdIdXREQ3dSRnNrVE1GTHRUU3VsTzZKNDE2enIxK3l3clZXclRTQ1JiK2dvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzcwNjA0NzY1CWZpbGU6VGlkZV8yLjMuMF94NjRfZW4tVVMubXNpCmtaM1p5N1JxeDh1MVdsenhwVmNpR0lNSXVKYXRjMXpjZHkrV3dKdjg2OEZjTlFPcE5Dd0NNWHowYjFidTVaVHFWeGtPUys5akZmME0yNmRGQkxrbEJBPT0K",
             "url": "https://github.com/faadingnightmaares/tide-releases/releases/download/v2.3.0/Tide_2.3.0_x64_en-US.msi"
         }
     },
-    "pub_date": "2026-02-09T05:15:00Z",
+    "pub_date": "2026-02-09T05:40:00Z",
     "version": "2.3.0",
-    "notes": "v2.3.0 - Performance Optimization & Immersive Mode Polish"
+    "notes": "v2.3.0 - Performance Optimization & Immersive Mode Polish (Signing Key Rotation)"
 }
