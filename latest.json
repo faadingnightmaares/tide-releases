@@ -1,11 +1,11 @@
 {
     "platforms": {
         "windows-x86_64": {
-            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTUjNFb0hSdW5PRFZ0N040L09RRi83L3VySnBETnFSWGJGakdsTTh3bEpBT3JGWHlSTTQ1YjM5M1docnJYOXdFdjhZOXh5R1lrM0RZYi9ncEhPb2Q3STVhZldiSDNyS2djPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzcwNjA3MTYxCWZpbGU6VGlkZV8yLjMuM194NjRfZW4tVVMubXNpCjRMRm01WEFIaDA1ZEFnUzFNdnA2RDdQRHNHK0YyWStwYjdRM0QvRC9PQzR0U29KVGZ0N3A3U3pmSGlZaGJOVldObWJjdzMwZGFxMzU1SnRITWZnV0JRPT0K",
-            "url": "https://github.com/faadingnightmaares/tide-releases/releases/download/v2.3.3/Tide_2.3.3_x64_en-US.msi"
+            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTUjNFb0hSdW5PRGRVV3FVZ3JNWlFKalpiUWY3UHpJWDlFMkRKMmhkaHMyRUlhSXVTUng2dUlmNkV1NFQ3bDFWMzBPSGh0ZG5FNzFrSC95bElOSWxUYmIzaEVSNmNjQVE0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzcwNzAzNzA0CWZpbGU6VGlkZV8yLjMuNF94NjRfZW4tVVMubXNpCk5sYVdNQWdUSCt1VU5mNnpBN1FTOHphVG5UeVh3MDY0c0QrTU5rRWxxZHdFVURsWW1VTHFhbWdsWEhPaFJkSkpFb1FtRkNzdzkwTEdYeWpJbWplR0RRPT0K",
+            "url": "https://github.com/faadingnightmaares/tide-releases/releases/download/v2.3.4/Tide_2.3.4_x64_en-US.msi"
         }
     },
-    "pub_date": "2026-02-09T06:15:00Z",
-    "version": "2.3.3",
-    "notes": "v2.3.3 - Fixed sticky lyrics bug when skipping songs"
+    "pub_date": "2026-02-10T09:10:00Z",
+    "version": "2.3.4",
+    "notes": "v2.3.4 - Fixed ruined lyrics, progress jumps, and seamless transitions."
 }
